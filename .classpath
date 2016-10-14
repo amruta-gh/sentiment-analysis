@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Java Workspace/CPSC 531/lib/twitter4j-core-4.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
