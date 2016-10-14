@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -11,7 +12,7 @@ import edu.stanford.nlp.sentiment.SentimentCoreAnnotations.SentimentAnnotatedTre
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.util.CoreMap;
 
-public class NLP {
+public class NLP2 {
 	static StanfordCoreNLP pipeline;
 
 	public static void init() {
